@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+pytorch_ipynb/cnn/data/*
+pytorch_ipynb/cnn/img_align_celeba/
+pytorch_ipynb/cnn/*.csv
+pytorch_ipynb/cnn/*.txt
