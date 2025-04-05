@@ -1,6 +1,8 @@
 .ipynb_checkpoints/
 pytorch_ipynb/cnn/data/*
-pytorch_ipynb/cnn/img_align_celeba/
 pytorch_ipynb/cnn/*.csv
 pytorch_ipynb/cnn/*.txt
 pytorch_ipynb/cnn/quickdraw-png_set1/
+pytorch_ipynb/cnn/celeba/
+pytorch_ipynb/cnn/dogs-vs-cats/
+__pycache__/
