@@ -6,3 +6,4 @@ pytorch_ipynb/cnn/quickdraw-png_set1/
 pytorch_ipynb/cnn/celeba/
 pytorch_ipynb/cnn/dogs-vs-cats/
 __pycache__/
+*.pt
